@@ -1,2 +1,3 @@
-# wizualizacja-danych
-Zajęcia z przedmiotu Wizualizacja Danych
+# Wizualizacja Danych
+
+** Numer indeksu:** 155090
