@@ -1,1 +1,0 @@
-__all__ = ["lz_operacje", "lz_postac"]
